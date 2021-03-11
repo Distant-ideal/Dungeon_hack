@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cb582258c89a69b4595b155d8295aa27
+timeCreated: 1600166495
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: pixel
+  fontNames:
+  - pixel
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 50cdce5f90f3c2946a9426900f435399, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
